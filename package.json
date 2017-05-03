@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GalacticSpaceCadet/oauthattemptmongo/issues"
   },
-  "homepage": "https://github.com/GalacticSpaceCadet/oauthattemptmongo#readme"
+  "homepage": "https://github.com/GalacticSpaceCadet/oauthattemptmongo#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "passport": "^0.3.2",
+    "passport-linkedin": "^1.0.0"
+  }
 }
