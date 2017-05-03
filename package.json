@@ -1,0 +1,19 @@
+{
+  "name": "oauthattemptmongo",
+  "version": "1.0.0",
+  "description": "Attempting to get working OAuth example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalacticSpaceCadet/oauthattemptmongo.git"
+  },
+  "author": "Diana Gandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalacticSpaceCadet/oauthattemptmongo/issues"
+  },
+  "homepage": "https://github.com/GalacticSpaceCadet/oauthattemptmongo#readme"
+}
